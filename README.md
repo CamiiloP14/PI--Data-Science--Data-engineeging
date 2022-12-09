@@ -34,4 +34,4 @@ Finalmente, hacemos las diferente consultas a nuestra FastAPI en el navegador, m
 
 # Diagrama de flujo
   
-  images/Diagrama trabajo.png
+  ![flijo de control](images/Diagrama trabajo.png)
