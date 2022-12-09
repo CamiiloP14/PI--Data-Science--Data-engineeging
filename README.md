@@ -2,7 +2,7 @@
   
 ## Proyecto I- Data engineering- Data Science Henry
 
-<p align=center>(https://github.com/CamiiloP14/PI--Data-Science--Data-engineeging/blob/master/images/data%20engineering.png)
+( https://github.com/CamiiloP14/PI--Data-Science--Data-engineeging/blob/master/images/data%20engineering.png)
 
 Este primero proyecto es presentado para la finalizacion de la carrera Data Science en Henry, orientado a Data Engineering. Propone demostrar el uso de varias herramientas y habilidades.
 
