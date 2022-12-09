@@ -33,6 +33,6 @@ Finalmente, hacemos las diferente consultas a nuestra FastAPI en el navegador, m
 - Actor que más se repite según plataforma y año. El request debe ser: get_actor(plataforma, año)
 
 # Diagrama de flujo
-  
-  ![flujo de control](https://raw.githubusercontent.com/CamiiloP14/
+
+![flujo de control](https://raw.githubusercontent.com/CamiiloP14/
 PI--Data-Science--Data-engineeging/master/images/Diagrama trabajo.png))
