@@ -34,4 +34,4 @@ Finalmente, hacemos las diferente consultas a nuestra FastAPI en el navegador, m
 
 # Diagrama de flujo
   
-  ![flijo de control](images/Diagrama trabajo.png)
+  ![flijo de control]([images/Diagrama trabajo.png](https://github.com/CamiiloP14/PI--Data-Science--Data-engineeging/blob/97104aa29db1d53e17384728cd0daad8711b3ee1/images/Diagrama%20trabajo.png))
